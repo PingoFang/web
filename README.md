@@ -4,5 +4,5 @@
 > python \
 > pipenv install \
 > pipenv shell\
-> set FLASK_RUN=developer\
+> set FLASK_RUN=development\
 > flask run
